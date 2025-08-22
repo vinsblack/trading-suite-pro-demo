@@ -1,3 +1,5 @@
+## 🏷️ Keywords
+Trading Platform, Cryptocurrency, AI Trading, React Dashboard, Professional Trading Tools, Copy Trading, Portfolio Management, Financial Analytics
 
  🚀 Trading Suite Pro - Demo Version
 
