@@ -1,9 +1,17 @@
 
-![Dashboard](C:\Users\vince\Pictures\Screenshots\gumroad2.png)
 
 
+<img width="2530" height="1404" alt="Gunmroad1" src="https://github.com/user-attachments/assets/b4c83035-77c7-464e-9dbc-4f0d6916fa92" />
+
+<img width="2541" height="1416" alt="gumroad2" src="https://github.com/user-attachments/assets/0b7301d9-f8a8-4917-af79-1cf6e3182e39" />
+<img width="2535" height="1398" alt="gumroad3" src="https://github.com/user-attachments/assets/8e615a54-64f5-4dad-853b-c8a811049584" />
+<img width="2543" height="1415" alt="gumroad4" src="https://github.com/user-attachments/assets/199536d3-c9a1-4f99-991c-41dc0197be9b" />
+<img width="2538" height="1410" alt="gumroad5" src="https://github.com/user-attachments/assets/6878b52a-ec4c-4953-9f3d-87b324f821a0" />
+<img width="2541" height="1407" alt="gumroad6" src="https://github.com/user-attachments/assets/dd0690ef-6c51-4ab6-9652-a7379f1162da" />
 
 # 🚀 Trading Suite Pro - Demo Version
+<img width="1296" height="733" alt="Screenshot 2025-08-22 022730" src="https://github.com/user-attachments/assets/98721c68-5c4a-4c46-9fbc-f92e044befd8" />
+
 
 > **⚠️ DISCLAIMER IMPORTANTE**: Tutti i dati mostrati sono esclusivamente a scopo dimostrativo. L'applicazione non garantisce guadagni reali e non deve essere utilizzata per decisioni di investimento effettive. I risultati passati non sono indicativi di performance future.
 
