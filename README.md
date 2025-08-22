@@ -9,9 +9,8 @@
 <img width="2538" height="1410" alt="gumroad5" src="https://github.com/user-attachments/assets/6878b52a-ec4c-4953-9f3d-87b324f821a0" />
 <img width="2541" height="1407" alt="gumroad6" src="https://github.com/user-attachments/assets/dd0690ef-6c51-4ab6-9652-a7379f1162da" />
 
-# 🚀 Trading Suite Pro - Demo Version
-<img width="1296" height="733" alt="Screenshot 2025-08-22 022730" src="https://github.com/user-attachments/assets/98721c68-5c4a-4c46-9fbc-f92e044befd8" />
 
+# 🚀 Trading Suite Pro - Demo Version
 
 > **⚠️ DISCLAIMER IMPORTANTE**: Tutti i dati mostrati sono esclusivamente a scopo dimostrativo. L'applicazione non garantisce guadagni reali e non deve essere utilizzata per decisioni di investimento effettive. I risultati passati non sono indicativi di performance future.
 
