@@ -1,3 +1,8 @@
+
+![Dashboard](C:\Users\vince\Pictures\Screenshots/gumroad2.png)
+
+
+
 # 🚀 Trading Suite Pro - Demo Version
 
 > **⚠️ DISCLAIMER IMPORTANTE**: Tutti i dati mostrati sono esclusivamente a scopo dimostrativo. L'applicazione non garantisce guadagni reali e non deve essere utilizzata per decisioni di investimento effettive. I risultati passati non sono indicativi di performance future.
