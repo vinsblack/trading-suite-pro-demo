@@ -1,0 +1,96 @@
+COMMERCIAL LICENSE AGREEMENT
+Trading Suite Pro - Advanced React Dashboard
+
+Copyright (c) 2025 Trading Suite Pro. All rights reserved.
+
+This is a commercial software product. By purchasing and downloading this software, 
+you agree to the terms and conditions outlined below.
+
+LICENSING TIERS:
+
+1. STANDARD LICENSE (€299)
+   ✅ Use in a single commercial project
+   ✅ Modify source code for your project
+   ✅ 6 months email support
+   ✅ Documentation included
+   ❌ Redistribution or resale prohibited
+   ❌ Multiple project usage prohibited
+
+2. EXTENDED LICENSE (€449)
+   ✅ Use in multiple commercial projects
+   ✅ Modify source code for your projects
+   ✅ 12 months email support
+   ✅ Premium documentation
+   ✅ Custom branding allowed
+   ❌ Redistribution as template prohibited
+   ❌ Resale as template prohibited
+
+3. DEVELOPER LICENSE (€599)
+   ✅ Unlimited commercial project usage
+   ✅ Full source code modification rights
+   ✅ 24 months priority support
+   ✅ Complete documentation package
+   ✅ White-label rights included
+   ✅ Redistribution rights for end products
+   ❌ Template resale prohibited
+
+PERMITTED USES:
+- Commercial websites and applications
+- Client projects and freelance work
+- SaaS platforms and trading applications
+- Modification and customization
+- Integration with other software
+
+PROHIBITED USES:
+- Redistribution as a template or theme
+- Resale on marketplaces or template sites
+- Sharing source code with unauthorized parties
+- Reverse engineering for competitive products
+- Claiming authorship of the original work
+
+INTELLECTUAL PROPERTY:
+This software and its original design remain the intellectual property 
+of the original authors. Purchasers receive usage rights as specified 
+by their license tier, not ownership of the intellectual property.
+
+SUPPORT:
+- Standard License: 6 months email support
+- Extended License: 12 months email support  
+- Developer License: 24 months priority support
+
+Support includes:
+✅ Technical implementation assistance
+✅ Bug fixes and patches
+✅ Documentation clarification
+✅ Feature usage guidance
+
+Support does not include:
+❌ Custom feature development
+❌ Third-party integration services
+❌ Server setup and deployment
+❌ Custom design modifications
+
+WARRANTY DISCLAIMER:
+This software is provided "as is" without warranty of any kind. 
+The authors disclaim all warranties, express or implied, including 
+but not limited to merchantability and fitness for a particular purpose.
+
+LIMITATION OF LIABILITY:
+In no event shall the authors be liable for any damages, including 
+but not limited to direct, indirect, special, incidental, or 
+consequential damages arising from the use of this software.
+
+UPDATES:
+- Minor updates and bug fixes included
+- Major version upgrades may require additional purchase
+- Security patches provided for active license period
+
+TERMINATION:
+This license is effective until terminated. It will terminate 
+immediately without notice if you fail to comply with any provision.
+
+CONTACT:
+For license inquiries: licensing@tradingsuitepro.com
+For technical support: support@tradingsuitepro.com
+
+Last updated: December 2024
