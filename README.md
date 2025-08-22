@@ -1,5 +1,5 @@
 
-![Dashboard](Screenshots/gumroad2.png)
+![Dashboard](C:\Users\vince\Pictures\Screenshots\gumroad2.png)
 
 
 
