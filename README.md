@@ -3,6 +3,8 @@ Trading Platform, Cryptocurrency, AI Trading, React Dashboard, Professional Trad
 
  🚀 Trading Suite Pro - Demo Version
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-vinsblack-blueviolet?logo=github)](https://github.com/sponsors/vinsblack)
+
 ![LOGIN]<img width="2530" height="1404" alt="Gunmroad1" src="https://github.com/user-attachments/assets/b4c83035-77c7-464e-9dbc-4f0d6916fa92" />
 
 ![DASHBOARD]<img width="2541" height="1416" alt="gumroad2" src="https://github.com/user-attachments/assets/0b7301d9-f8a8-4917-af79-1cf6e3182e39" />
