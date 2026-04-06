@@ -14,13 +14,15 @@ A professional trading dashboard with real-time analytics, copy trading, AI back
 
 ## Screenshots
 
-| Login | Dashboard |
-|-------|-----------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+<img width="100%" alt="Login" src="https://github.com/user-attachments/assets/b4c83035-77c7-464e-9dbc-4f0d6916fa92" />
 
-| Copy Trading | AI Backtest |
-|-------------|-------------|
-| ![Copy Trading](screenshots/copy-trading.png) | ![AI Backtest](screenshots/ai-backtest.png) |
+<img width="100%" alt="Dashboard" src="https://github.com/user-attachments/assets/0b7301d9-f8a8-4917-af79-1cf6e3182e39" />
+
+<img width="100%" alt="Copy Trading" src="https://github.com/user-attachments/assets/8e615a54-64f5-4dad-853b-c8a811049584" />
+
+<img width="100%" alt="AI Backtest" src="https://github.com/user-attachments/assets/199536d3-c9a1-4f99-991c-41dc0197be9b" />
+
+<img width="100%" alt="API Settings" src="https://github.com/user-attachments/assets/6878b52a-ec4c-4953-9f3d-87b324f821a0" />
 
 ---
 
@@ -104,7 +106,7 @@ The full version includes real market data integration, live exchange API connec
 
 **Contact:** vincenzo.gallo77@hotmail.com
 
-What's included in the commercial version:
+What's included:
 
 - Live exchange API integration (Binance, Coinbase, Kraken, etc.)
 - Real-time market data feeds
